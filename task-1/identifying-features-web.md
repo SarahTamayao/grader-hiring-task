@@ -7,6 +7,7 @@ Get a glimpse of how students make their assignment by following these steps!
 
 **Instructions:** 
 - [ ] Make a copy of this [document](https://docs.google.com/document/d/1691RdlVPLXOZuggN1txu17X7-S7i-ciD9iPEnmWvZBI/copy).
+- [ ] Provide answers to Questions #1 and Question #2.
 - [ ] Ensure that you fill out the correct number of words.
 - [ ] Share settings correctly!
 
