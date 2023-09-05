@@ -6,7 +6,7 @@ Get a glimpse of how students make their assignment by following these steps!
 💡 It is important to have clear understanding of this role. It will help you set your expectation and identify different ways you can efficiently deliver your tasks. To help us understand your expectations, kindly follow the instruction stated below.
 
 **Instructions:** 
-- [ ] Make a copy of this [document](https://docs.google.com/document/d/1691RdlVPLXOZuggN1txu17X7-S7i-ciD9iPEnmWvZBI/edit?usp=sharing).
+- [ ] Make a copy of this [document](https://docs.google.com/document/d/1691RdlVPLXOZuggN1txu17X7-S7i-ciD9iPEnmWvZBI/copy).
 - [ ] Ensure that you fill out the correct number of words.
 - [ ] Share settings correctly!
 
