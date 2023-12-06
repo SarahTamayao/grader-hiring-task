@@ -58,8 +58,8 @@ In this task, you will be grading sample submissions. As mentioned you do not ne
   - [Student 4: AND101-04](https://github.com/AlynMing/AND101-04)
   - [Student 5: AND101-05](https://github.com/AlynMing/AND101-05)
       
-- [ ] Evaluate the README of each submission. Click the box if it's YES or NO.
-- [ ] Evaluate the GIF. Click the box if it's YES or NO.
+- [ ] Evaluate the README of each submission. Check the box if the README is correct. 
+- [ ] Evaluate the GIF. Check the box if the feature is shown in the demo. 
 - [ ] Evaluate feature implementation. Select from column F (Features) the implementation shown in the GIF. You can only select one per feature.
 
 **Things to Note:** <br>
