@@ -63,5 +63,5 @@ In this task, you will be grading sample submissions. As mentioned you do not ne
 - [ ] Evaluate feature implementation. Select from column F (Features) the implementation shown in the GIF. You can only select one per feature.
 
 **Things to Note:** <br>
-You will only be mostly checking the boxes. Please refrain from making any changes on the other cells since.
+You will only be mostly checking the boxes. Please refrain from making any changes on the other cells. These are with formula. Any error made to the spreadsheet must be fixed prior to sending your hiring task.  
 
